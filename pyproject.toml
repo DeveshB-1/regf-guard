@@ -1,0 +1,20 @@
+[project]
+name = "regf-guard"
+version = "0.1.0"
+description = "Pre-dial guard and call/transcript auditor for AI collection agents: Reg F 7-in-7, calling hours across time zones, mini-Miranda and third-party disclosure"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["mcp>=2.3,<3", "tzdata>=2024.1"]
+
+[project.scripts]
+regf-guard = "regf_guard.cli:main"
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

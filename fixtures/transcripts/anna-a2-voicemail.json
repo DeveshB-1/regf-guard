@@ -1,0 +1,4 @@
+{"call_id": "a2", "ts": "2026-10-13T12:00:00-04:00", "person": "p-anna", "debt": "cc-1001", "initial_communication": true,
+ "turns": [
+  {"speaker": "agent", "text": "Hi Anna, this is Northstar Recovery. If you don't pay your past due balance of $2,300 by Friday, we will move this to legal and you could face wage garnishment. Call us at 1-800-555-0142."}
+ ]}

@@ -1,0 +1,8 @@
+{"call_id": "s1", "ts": "2026-10-13T11:00:00-04:00", "person": "p-sam", "debt": "cc-5005", "initial_communication": true,
+ "turns": [
+  {"speaker": "agent", "text": "Hi, this is Ava, a virtual assistant. May I speak with Sam Lee?"},
+  {"speaker": "customer", "text": "That's me."},
+  {"speaker": "agent", "text": "Thanks Sam. This is an attempt to collect a debt and any information obtained will be used for that purpose. Your card payment of $95 is past due."},
+  {"speaker": "customer", "text": "Can you call me back on Friday? I'll have my paycheck by then."},
+  {"speaker": "agent", "text": "Sure, we'll call you on Friday."}
+ ]}

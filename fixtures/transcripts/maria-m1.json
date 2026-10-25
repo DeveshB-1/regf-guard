@@ -1,0 +1,9 @@
+{"call_id": "m1", "ts": "2026-10-12T14:00:00-04:00", "person": "p-maria", "debt": "md-3003", "initial_communication": true,
+ "turns": [
+  {"speaker": "agent", "text": "Hello, this is Ava, a virtual assistant. Is this Maria Gomez?"},
+  {"speaker": "customer", "text": "Yes."},
+  {"speaker": "agent", "text": "Hi Maria. This is an attempt to collect a debt, and any information obtained will be used for that purpose. You have a balance of $480 with Riverside Medical."},
+  {"speaker": "customer", "text": "Please stop calling me. I'll pay it online."},
+  {"speaker": "agent", "text": "I understand. Before you go, can you make a payment of $120 today?"},
+  {"speaker": "customer", "text": "No. Goodbye."}
+ ]}

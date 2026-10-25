@@ -1,0 +1,7 @@
+{
+  "p-anna": {"timezones": ["America/Los_Angeles", "America/New_York"], "note": "address in CA, mobile area code 212"},
+  "p-raj": {"timezones": ["America/Chicago"]},
+  "p-maria": {"timezones": ["America/New_York"]},
+  "p-li": {"timezones": ["America/Denver"]},
+  "p-sam": {"timezones": ["America/New_York"]}
+}

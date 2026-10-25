@@ -1,0 +1,7 @@
+{"call_id": "r1", "ts": "2026-10-13T10:00:00-05:00", "person": "p-raj", "debt": "al-2002", "initial_communication": true,
+ "turns": [
+  {"speaker": "agent", "text": "Hi, this is Ava, a virtual assistant calling from Northstar about the overdue payment on Raj Patel's auto loan. Am I speaking with Raj?"},
+  {"speaker": "customer", "text": "No, this is his wife. He's at work."},
+  {"speaker": "agent", "text": "No problem. Please tell him his balance of $1,240 is past due and he should call us back."},
+  {"speaker": "customer", "text": "Okay, I'll tell him."}
+ ]}

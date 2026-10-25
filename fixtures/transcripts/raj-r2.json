@@ -1,0 +1,8 @@
+{"call_id": "r2", "ts": "2026-10-14T18:30:00-05:00", "person": "p-raj", "debt": "al-2002", "initial_communication": true,
+ "turns": [
+  {"speaker": "agent", "text": "Hi, this is Ava, a virtual assistant from Northstar. Am I speaking with Raj Patel?"},
+  {"speaker": "customer", "text": "Yes, speaking."},
+  {"speaker": "agent", "text": "Thanks Raj. This is an attempt to collect a debt and any information obtained will be used for that purpose. I'm calling about your auto loan account."},
+  {"speaker": "customer", "text": "I get paid on Friday, I'll pay then."},
+  {"speaker": "agent", "text": "Thanks, I've noted that you plan to pay on Friday."}
+ ]}
